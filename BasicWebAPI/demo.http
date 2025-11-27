@@ -1,0 +1,32 @@
+###
+# Get Blogs
+http://localhost:5217/blogs
+
+###
+# Create Blog
+POST http://localhost:5217/blogs
+Content-Type: application/json
+
+{
+    "Title": "Third Post",
+    "Content": "This is my third blog post."
+}
+
+###
+# Update Blog
+PUT http://localhost:5217/blogs/0
+Content-Type: application/json
+
+{
+    "Title": "Updated First Post",
+    "Content": "This is the updated content of my first blog post."
+}
+
+
+###
+# Delete Blog
+DELETE http://localhost:5217/blogs/1
+
+###
+# Get Single Blog
+http://localhost:5217/blogs/0

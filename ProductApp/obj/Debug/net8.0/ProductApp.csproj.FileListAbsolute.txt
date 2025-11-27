@@ -1,0 +1,17 @@
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/bin/Debug/net8.0/ProductApp
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/bin/Debug/net8.0/ProductApp.deps.json
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/bin/Debug/net8.0/ProductApp.runtimeconfig.json
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/bin/Debug/net8.0/ProductApp.dll
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/bin/Debug/net8.0/ProductApp.pdb
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/obj/Debug/net8.0/ProductApp.csproj.AssemblyReference.cache
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/obj/Debug/net8.0/ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/obj/Debug/net8.0/ProductApp.AssemblyInfoInputs.cache
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/obj/Debug/net8.0/ProductApp.AssemblyInfo.cs
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/obj/Debug/net8.0/ProductApp.csproj.CoreCompileInputs.cache
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/obj/Debug/net8.0/ProductApp.csproj.CopyComplete
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/obj/Debug/net8.0/ProductApp.dll
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/obj/Debug/net8.0/refint/ProductApp.dll
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/obj/Debug/net8.0/ProductApp.pdb
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/obj/Debug/net8.0/ProductApp.genruntimeconfig.cache
+/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/obj/Debug/net8.0/ref/ProductApp.dll

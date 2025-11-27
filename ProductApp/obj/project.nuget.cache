@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oHX9+9G7TbemWQxbbhLNKygx3W9hTyjhH6lqUbt4zRwtgAA54mZjes/Mkya9oWXkx8rHbFVQTJOUCdRhPupJIw==",
+  "success": true,
+  "projectFilePath": "/Users/h1575922/Developer/personal/code/DOTNET_/ProductApp/ProductApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/h1575922/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
