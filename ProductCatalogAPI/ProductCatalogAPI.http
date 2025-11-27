@@ -1,0 +1,33 @@
+@ProductCatalogAPI_HostAddress = http://localhost:5055
+
+GET {{ProductCatalogAPI_HostAddress}}/api/products
+Accept: application/json
+
+###
+POST {{ProductCatalogAPI_HostAddress}}/api/products
+Content-Type: application/json
+
+{
+  "name": "New Product",
+  "description": "This is a new product",
+  "price": 19.99
+}
+
+###
+PUT {{ProductCatalogAPI_HostAddress}}/api/products/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "Updated Product",
+  "description": "This is an updated product",
+    "price": 29.99
+}
+
+
+###
+DELETE {{ProductCatalogAPI_HostAddress}}/api/products/1
+
+###
+GET {{ProductCatalogAPI_HostAddress}}/api/products/1
+Accept: application/json    
