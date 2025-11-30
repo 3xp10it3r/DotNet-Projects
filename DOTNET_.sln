@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductCatalogAPI", "Produc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{FB5B44EB-2721-41A8-85CE-B2845A34C001}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandling", "ErrorHandling\ErrorHandling.csproj", "{B8F8627B-AB4A-40CA-BF31-283B6001A54A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{FB5B44EB-2721-41A8-85CE-B2845A34C001}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB5B44EB-2721-41A8-85CE-B2845A34C001}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB5B44EB-2721-41A8-85CE-B2845A34C001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F8627B-AB4A-40CA-BF31-283B6001A54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F8627B-AB4A-40CA-BF31-283B6001A54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F8627B-AB4A-40CA-BF31-283B6001A54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F8627B-AB4A-40CA-BF31-283B6001A54A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,6 @@
+@ErrorHandling_HostAddress = http://localhost:5030
+
+GET {{ErrorHandling_HostAddress}}/api/ErrorHandling/division?numerator=10&denominator=0
+Accept: application/json
+
+###

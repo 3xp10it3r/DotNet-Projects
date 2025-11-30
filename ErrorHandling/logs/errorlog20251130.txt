@@ -1,0 +1,33 @@
+2025-11-30 17:03:55.655 +05:30 [INF] Now listening on: http://localhost:5030
+2025-11-30 17:03:55.683 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-11-30 17:03:55.683 +05:30 [INF] Hosting environment: Development
+2025-11-30 17:03:55.683 +05:30 [INF] Content root path: /Users/h1575922/Developer/personal/code/DOTNET_/ErrorHandling
+2025-11-30 17:04:03.257 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5030/api/division/ - null null
+2025-11-30 17:04:03.270 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5030/api/division/ - 404 0 null 14.3939ms
+2025-11-30 17:04:03.273 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5030/api/division/, Response status code: 404
+2025-11-30 17:05:35.150 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5030/api/division?numerator=10&denominator=2 - null null
+2025-11-30 17:05:35.151 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5030/api/division?numerator=10&denominator=2 - 404 0 null 1.3605ms
+2025-11-30 17:05:35.151 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5030/api/division, Response status code: 404
+2025-11-30 17:05:40.759 +05:30 [INF] Application is shutting down...
+2025-11-30 17:05:43.521 +05:30 [INF] Now listening on: http://localhost:5030
+2025-11-30 17:05:43.551 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-11-30 17:05:43.551 +05:30 [INF] Hosting environment: Development
+2025-11-30 17:05:43.551 +05:30 [INF] Content root path: /Users/h1575922/Developer/personal/code/DOTNET_/ErrorHandling
+2025-11-30 17:05:46.088 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5030/api/division?numerator=10&denominator=2 - null null
+2025-11-30 17:05:46.098 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5030/api/division?numerator=10&denominator=2 - 404 0 null 10.2327ms
+2025-11-30 17:05:46.100 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5030/api/division, Response status code: 404
+2025-11-30 17:06:13.189 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5030/api/ErrorHandling/division?numerator=10&denominator=2 - null null
+2025-11-30 17:06:13.191 +05:30 [INF] Executing endpoint 'ErrorHandlingController.GetDivision (ErrorHandling)'
+2025-11-30 17:06:13.212 +05:30 [INF] Route matched with {action = "GetDivision", controller = "ErrorHandling"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetDivision(Int32, Int32) on controller ErrorHandlingController (ErrorHandling).
+2025-11-30 17:06:13.221 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Int32'.
+2025-11-30 17:06:13.242 +05:30 [INF] Executed action ErrorHandlingController.GetDivision (ErrorHandling) in 28.1472ms
+2025-11-30 17:06:13.242 +05:30 [INF] Executed endpoint 'ErrorHandlingController.GetDivision (ErrorHandling)'
+2025-11-30 17:06:13.243 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5030/api/ErrorHandling/division?numerator=10&denominator=2 - 200 null application/json; charset=utf-8 54.4674ms
+2025-11-30 17:06:43.537 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5030/api/ErrorHandling/division?numerator=10&denominator=0 - null null
+2025-11-30 17:06:43.538 +05:30 [INF] Executing endpoint 'ErrorHandlingController.GetDivision (ErrorHandling)'
+2025-11-30 17:06:43.539 +05:30 [INF] Route matched with {action = "GetDivision", controller = "ErrorHandling"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetDivision(Int32, Int32) on controller ErrorHandlingController (ErrorHandling).
+2025-11-30 17:06:43.540 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2025-11-30 17:06:43.547 +05:30 [INF] Executed action ErrorHandlingController.GetDivision (ErrorHandling) in 8.1932ms
+2025-11-30 17:06:43.547 +05:30 [INF] Executed endpoint 'ErrorHandlingController.GetDivision (ErrorHandling)'
+2025-11-30 17:06:43.548 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5030/api/ErrorHandling/division?numerator=10&denominator=0 - 400 null application/json; charset=utf-8 10.7725ms
+2025-11-30 17:07:17.476 +05:30 [INF] Application is shutting down...
